@@ -1,6 +1,7 @@
 # dependencies
 node_modules/
 inventory-*
+db.json
 
 # logs
 npm-debug.log*
