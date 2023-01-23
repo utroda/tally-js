@@ -1,3 +1,4 @@
+![Tally-JS](https://github.com/utroda/tally-js/blob/main/tally-js.png?raw=true)
 
 # Tally-JS
 
